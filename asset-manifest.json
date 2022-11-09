@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Project_Koshy_Co/static/js/main.2345aae8.chunk.js",
+    "main.js.map": "/Project_Koshy_Co/static/js/main.2345aae8.chunk.js.map",
+    "runtime-main.js": "/Project_Koshy_Co/static/js/runtime-main.509464cb.js",
+    "runtime-main.js.map": "/Project_Koshy_Co/static/js/runtime-main.509464cb.js.map",
+    "static/js/2.2f76d594.chunk.js": "/Project_Koshy_Co/static/js/2.2f76d594.chunk.js",
+    "static/js/2.2f76d594.chunk.js.map": "/Project_Koshy_Co/static/js/2.2f76d594.chunk.js.map",
+    "index.html": "/Project_Koshy_Co/index.html",
+    "static/js/2.2f76d594.chunk.js.LICENSE.txt": "/Project_Koshy_Co/static/js/2.2f76d594.chunk.js.LICENSE.txt",
+    "static/media/advisory.2bfe3020.ico": "/Project_Koshy_Co/static/media/advisory.2bfe3020.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.509464cb.js",
+    "static/js/2.2f76d594.chunk.js",
+    "static/js/main.2345aae8.chunk.js"
+  ]
+}
